@@ -1,0 +1,5 @@
+WiFi.h (ESP32 core)
+FirebaseESP32
+DHT sensor library
+LiquidCrystal_I2C
+Wire.h (ESP32 core)
