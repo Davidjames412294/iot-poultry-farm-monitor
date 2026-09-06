@@ -1,0 +1,14 @@
+iot-poultry-farm-monitor/
+│
+├── firmware/
+├── libraries/
+├── docs/
+├── images/
+│   ├── prototype.jpg
+│   ├── esp32-sensors.jpg
+│   ├── lcd-display.jpg
+│   ├── wiring.jpg
+│   └── poultry-house.jpg
+│
+├── README.md
+└── .gitignore
