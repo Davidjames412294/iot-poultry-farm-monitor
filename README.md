@@ -34,6 +34,37 @@ The project is intended as an open-source platform that can be extended with add
 * 📡 ESP32 Wi-Fi connectivity
 * 📱 Remote sensor-data availability through Firebase
 * 🔧 Modular firmware structure for future expansion
+* ## 📷 Project Photos
+
+### 🐔 System Prototype
+
+The completed IoT-based poultry farm monitoring prototype integrates the ESP32 controller, environmental sensors, LCD display, indicators, buzzer, and communication components.
+
+![IoT Poultry Farm Prototype](images/prototype-overview.jpg)
+
+---
+
+### 🌡️ Sensor Setup
+
+The sensor section of the system is used to monitor important poultry-house environmental conditions, including temperature, humidity, air quality/ammonia level, and light.
+
+![Poultry Farm Sensor Setup](images/sensor-setup.jpg)
+
+---
+
+### 📟 LCD Monitoring Display
+
+The 16×2 I2C LCD provides a local view of the monitored environmental conditions and system status.
+
+![LCD Monitoring Display](images/lcd-display.jpg)
+
+---
+
+### 📊 Monitoring Dashboard
+
+The monitoring dashboard provides a remote view of sensor readings and system status through the IoT platform.
+
+![Poultry Farm Monitoring Dashboard](images/Dashboard.jpg)
 
 ---
 
